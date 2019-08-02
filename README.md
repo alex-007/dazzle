@@ -6,23 +6,6 @@
   <h4 align="center">Dashboards made easy in React JS</h4>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Raathigesh/Dazzle/blob/master/LICENSE">
-    <img src="https://img.shields.io/npm/l/express.svg?maxAge=2592000&style=flat-square"
-         alt="License">
-  </a>
-  <a href="https://www.npmjs.com/package/react-dazzle">
-    <img src="https://img.shields.io/npm/v/react-dazzle.svg?style=flat-square"
-         alt="NPM Version">
-  </a>
-  <a href="https://travis-ci.org/Raathigesh/Dazzle">
-    <img src="https://img.shields.io/travis/Raathigesh/dazzle.svg?style=flat-square"
-         alt="Travis Build">
-  </a>
-  <a href="https://codecov.io/github/Raathigesh/Dazzle?branch=master">
-    <img src="https://img.shields.io/codecov/c/github/Raathigesh/Dazzle.svg?style=flat-square" alt="Coverage via Codecov" />
-  </a>
-</p>
 <br>
 
 **Looking for maintainers https://github.com/Raathigesh/dazzle/issues/41**
